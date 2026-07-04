@@ -6,10 +6,7 @@ Ini adalah repositori untuk Proyek UAS Perancangan Game 3D dengan konsep Horor.
 
 > **Catatan:** Anda dapat meletakkan video hasil rekaman gameplay Anda di folder `GameplayVideo` dengan nama file `gameplay.mp4`. Video akan tampil di bawah ini:
 
-<video width="640" height="360" controls>
-  <source src="GameplayVideo/gameplay.mp4" type="video/mp4">
-  Browser Anda tidak mendukung pemutaran video.
-</video>
+<video src="GameplayVideo/gameplay.mp4" width="640" height="360" controls></video>
 
 *(Atau Anda bisa menggunakan format GIF)*
 ![Gameplay](GameplayVideo/gameplay.gif)
