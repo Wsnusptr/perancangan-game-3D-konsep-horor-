@@ -8,8 +8,6 @@ Ini adalah repositori untuk Proyek UAS Perancangan Game 3D dengan konsep Horor.
 
 ## 🎮 Tampilan Gameplay
 
-> **Catatan:** Tarik dan lepas (Drag & Drop) video gameplay yang sudah dikompres ke baris di bawah ini:
-
 <!-- 
 
 https://github.com/user-attachments/assets/d1cd366f-6ac0-463b-ad66-2ec9b5a004ec
