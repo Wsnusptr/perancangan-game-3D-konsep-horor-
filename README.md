@@ -6,12 +6,9 @@ Ini adalah repositori untuk Proyek UAS Perancangan Game 3D dengan konsep Horor.
 
 > **Catatan:** Anda dapat meletakkan video hasil rekaman gameplay Anda di folder `GameplayVideo` dengan nama file `gameplay.mp4`. Video akan tampil di bawah ini:
 
-https://github.com/Wsnusptr/perancangan-game-3D-konsep-horor-/raw/main/GameplayVideo/gameplay.mp4
+Karena ukuran video lebih dari batas rendering otomatis GitHub, silakan klik tombol di bawah ini untuk memutar video gameplay-nya langsung di GitHub:
 
-*[Klik di sini jika video tidak berputar otomatis](https://github.com/Wsnusptr/perancangan-game-3D-konsep-horor-/raw/main/GameplayVideo/gameplay.mp4)*
-
-*(Atau Anda bisa menggunakan format GIF)*
-![Gameplay](GameplayVideo/gameplay.gif)
+[![Tonton Video Gameplay](https://img.shields.io/badge/Tonton_Video_Gameplay-▶_Play-red?style=for-the-badge&logo=youtube)](https://github.com/Wsnusptr/perancangan-game-3D-konsep-horor-/blob/main/GameplayVideo/gameplay.mp4)
 
 ## 📁 Struktur Proyek
 
